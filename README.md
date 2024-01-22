@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswindas-111&label=Profile%20views&color=0e75b6&style=flat" alt="aswindas-111" /> </p>
 
-- 🔭 I’m currently working on Task Management and Chat Application Project using django framwork and Database of MongoDB
-
-- 🌱 I’m currently learning **MongoDB**
+- 🔭 I’m currently working on Task Management and Chat Application Project using django framwork and NoSQL Database of MongoDB
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
