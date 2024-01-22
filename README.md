@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on Task Management and Chat Application Project using django framwork and NoSQL Database of MongoDB
 
 <h3 align="left">Connect with me:</h3>
+<a href="url">cvaswin1997@gmail.com</a>
 <p align="left">
 </p>
 
